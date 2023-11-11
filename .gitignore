@@ -1,6 +1,8 @@
 # Dependency directories
 node_modules/
 data/
+__pycache__
+model
 
 # Environment files
 .env

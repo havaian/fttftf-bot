@@ -1,6 +1,5 @@
 const fs = require('fs');
 const axios = require('axios');
-const { Telegraf } = require('telegraf');
 const path = require('path');
 
 const voiceHandler = async (ctx) => {
